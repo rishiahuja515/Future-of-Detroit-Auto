@@ -59,6 +59,9 @@ Some of the limitations of the data include a possible change in refining costs 
 ## Models  
 
 We used an ARIMA  model to predict and forecast future Gas prices. It's a model used in to measure events that happen over a period of time. The model is used to understand past data and predict future data in a series. Our Root mean square error was 1.59 dollars. This tells us that the price my future gas is off by an average of a $1.59. Although the error is high, it still keeps the prediction above the target line of $2.50. Unfortunately with the volatility of the market and War going on in Ukraine my model needs more data to more accurately predict the price of gas. 
+
+
+
 ![Prediction Model](Images/Gas%20Price%20Pred.png) 
 
 ---
