@@ -45,7 +45,13 @@ Our first chart plotted the price of WTI Oil and the Price of Henry Hub Gas.
 We decided not to use this data becauase we were able to find the Weekly Gas Price According to the EIA. 
 
 We Split this Data using a Train/Test Split using May 4, 2020 as our date. If you refer to the graph above you can see the negative Oil Price due to the COVID-19 Pandemic.
+
+
+
 ![Train/Test](Images/Train%3ATest.png)  
+
+
+
 
 Some of the limitations of the data include a possible change in refining costs and if that will effect the price of gas. We were also only able to access Weekly Data instead of Daily Data. We beleive that Daily Oil Prices would give us a more accurate model. Our Data is only through June 2022 and with the very recent drop in oil prices, we would need to use the more recent numbers. Also another limitation is the current war in the Ukraine a resolution could drastically effect the future price. 
 
